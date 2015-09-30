@@ -42,7 +42,7 @@ To destroy a stack created by this script run:
 ```
 ==> ./go.py destroy
 ```
-A list of launched stacks will be displayed from which you can select the one to destroy.
+A list of launched stacks will be displayed from which you can select the one to destroy.abacdd
 ## Demo Architecture
 ![demo architecture](http://nando-automation-demo.s3.amazonaws.com/public/nando-automation-demo-001.png)
 ![demo architecture](http://nando-automation-demo.s3.amazonaws.com/public/nando-automation-demo-002.png)
